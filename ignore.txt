@@ -1,0 +1,2 @@
+file file_to_be_ingored
+ignore.txt
